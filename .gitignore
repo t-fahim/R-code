@@ -1,0 +1,70 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Project files
+*.Rproj
+
+# Output files
+*.html
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# Cache and logs
+*.log
+cache/
+tmp/
+
+# knitr and rmarkdown cache
+*_cache/
+_cache/
+
+# renv
+renv/library/
+renv/python/
+renv/staging/
+renv/cache/
+
+# packrat
+packrat/lib/
+packrat/src/
+packrat/packrat.lock
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Data files (optional — uncomment if needed)
+# data/
+# *.rds
+# *.rda
+
+# API keys / secrets
+.Renviron
+.env
+
+# Quarto
+.quarto/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
